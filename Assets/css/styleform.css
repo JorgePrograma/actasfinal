@@ -1,0 +1,96 @@
+
+
+.container-fluid .row .tile {
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;; 
+    border: 1px solid #000;
+}
+
+label{
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+}
+#hora{width: 200px;}
+
+
+.col-md-7 textarea{margin-top: 10px;
+width: 500px;
+height: 100px;}
+
+.col-md-7{ display: flex;
+margin-top:10px ;
+margin-bottom: 10px;
+}
+
+.col-lg-4 { display: flex;
+    margin-top:10px ;
+    margin-bottom: 10px;}
+    
+    .col-lg-4 label { display: flex;
+    width: 200px; 
+    }
+        
+
+input{padding: 7px;
+width: 220px;}
+
+select{
+    margin-top: 10px;
+    width: 50px;
+    margin-bottom: 20px;
+}
+label{color: #000;
+font-size: 20px;
+margin-top: 15px;}
+.modal-content{margin-left: 10px;
+    margin-right: 10px;}
+
+.container-fluid .row .tile .col-md-3 {
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.container-fluid .row .tile #txttema {
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 500px;
+}
+
+.container-fluid .row section {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.container-fluid .row #crearactividad {
+    margin: 10px;
+    width: 180px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 7px;
+    color: black;
+    background-color: aquamarine;
+}
+
+.container-fluid .row .p-3 a {
+    margin: 10px;
+    width: 180px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 7px;
+    color: black;
+}
+
+.container-fluid .row .p-3 button {
+    margin: 10px;
+    width: 180px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 7px;
+    color: black;
+    background-color: rgb(42, 216, 71);
+}
+
+.app-content{margin-bottom: 200px;}
